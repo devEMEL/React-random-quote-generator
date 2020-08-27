@@ -1,0 +1,26 @@
+
+.new-quote {
+
+  &::after,
+  &::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
+
+// .quote-icon {
+//   font-size: 2rem;
+//   padding-top: 2rem;
+//   padding-left: 2rem;
+//   margin-bottom: 1rem;
+// }
+
+// #text {
+//   font-weight: 400;
+// }
+
+#author {
+  float: right;
+  
+}

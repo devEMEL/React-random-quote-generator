@@ -1,0 +1,35 @@
+
+#app {
+  position: relative;
+}
+
+.quote-title {
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 10vh;
+  color: #fff;
+  letter-spacing: 1rem;
+}
+
+#quote-box {
+  background-color: rgb(255, 255, 255);
+  max-width: 80rem;
+  min-height: 30rem;
+  margin: auto;
+  margin-top: 10vh;
+  padding: 2rem;
+  padding-top: 3rem;
+
+  
+  outline: 3px solid rgb(255, 255, 255);
+  outline-offset: 1rem;
+  
+}
+
+.coder {
+  color: #fff;
+  text-align: center;
+  margin-top: 5rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+}

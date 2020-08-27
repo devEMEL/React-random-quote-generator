@@ -1,0 +1,31 @@
+.quoteButtons {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2rem;
+}
+
+#new-quote {
+
+  float: right;
+  padding: 1rem 2rem;
+  border: 1px solid rgb(131, 224, 39);
+  outline: none;
+  background-color: rgb(131, 224, 39);
+  color: #fff;
+  font-size: 1.5rem;
+  border-radius: 2px;
+
+  
+  &:hover {
+    background-color: rgb(97, 184, 17);
+  }
+}
+
+
+#tweet-quote {
+  padding: 1rem;
+  color:#fff;
+  background-color: rgb(131, 224, 39);
+  font-size: 2rem;
+
+}
